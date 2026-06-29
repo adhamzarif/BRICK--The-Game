@@ -155,7 +155,7 @@ http://localhost:5173
 
 The main landing page featuring the luxury branding, animated hero content, and the floating BRICKÉ showcase.
 
-![Hero Section](screenshots/hero.png)
+![Hero Section](bricke/screenshots/hero.png)
 
 ---
 
@@ -163,7 +163,7 @@ The main landing page featuring the luxury branding, animated hero content, and 
 
 The storytelling section highlighting BRICKÉ's timeless durability and premium craftsmanship.
 
-![Story Section](screenshots/story.png)
+![Story Section](bricke/screenshots/story.png)
 
 ---
 
@@ -171,7 +171,7 @@ The storytelling section highlighting BRICKÉ's timeless durability and premium 
 
 The interactive mini-game where players catch falling bricks to earn points before time runs out.
 
-![BRICK VAULT Game](screenshots/game.png)
+![BRICK VAULT Game](bricke/screenshots/game.png)
 
 ---
 
