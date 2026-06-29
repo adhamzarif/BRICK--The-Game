@@ -3,7 +3,7 @@
 
 
 
-\
+
 
 > **A modern luxury product landing page with an interactive mini-game built using React, Vite, Tailwind CSS, and Framer Motion.**
 
